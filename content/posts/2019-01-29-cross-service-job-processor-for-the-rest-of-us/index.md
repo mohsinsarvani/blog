@@ -5,7 +5,7 @@ hero: ./images/photo1.jpg
 date: "2019-01-29T22:12:03.284Z"
 logoUrl: "https://res.cloudinary.com/dscgr6mcw/image/upload/v1549120910/bull-post/ski-mountain.jpg"
 devLink: "https://dev.to/aleccool213/a-job-queue-for-a-micro-service-world--4b26"
-canonicalUrl: ""
+canonical_url: ""
 excerpt: An explanation into how we built a job queuing system for use in a micro-service context and how we contributed back our work along the way.
 slug: "/cross-service-job-processor-for-the-rest-of-us/"
 ---
